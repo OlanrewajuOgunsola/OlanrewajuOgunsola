@@ -1,73 +1,84 @@
-# Olanrewaju Ogunsola – Cybersecurity Portfolio  
+# Olanrewaju Ogunsola – Cybersecurity Analyst | Penetration Tester | Offensive Security Specialist
+Passionate about **offensive security, vulnerability assessment, adversary simulation, GRC, and security automation**.  
+Open to global opportunities in **Penetration Testing & Cybersecurity Consulting**.  
 
-Welcome to my cybersecurity portfolio!  
-I am a **Cybersecurity Analyst | Penetration Tester | Offensive Security Specialist | DevSecOps** with experience in **penetration testing, vulnerability assessment, adversary simulation, cloud security, GRC, and incident response** across multiple industries including Finance, Healthcare, IT, Engineering, and Manufacturing.  
-
-This repository documents my **practical projects, research, and case studies** in cybersecurity.  
-My goal is to demonstrate applied technical skills, share methodologies, and provide real-world insights into how I approach **offensive and defensive security**.  
+Hello! I’m **Olanrewaju Ogunsola**, a results-driven Cybersecurity Analyst with years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.  
 
 ---
 
-## Areas of Expertise  
+## Project Highlights  
 
-- **Penetration Testing & Vulnerability Assessment (PT/VA)** – Web, Network, and Cloud environments.  
-- **Adversary Simulation** – Red team style testing mapped to MITRE ATT&CK.  
-- **Threat Intelligence & Detection** – SIEM log analysis, IOC enrichment, malware analysis.  
-- **Security Configuration Reviews** – Firewalls, IDS/IPS, and Cloud Security controls.  
-- **Governance, Risk & Compliance (GRC)** – NIST, ISO 27001, PCI-DSS, HIPAA, GDPR, SOC, FedRAMP.  
-- **Python & PowerShell Scripting** – Security automation and data analysis.  
+### Lab Foundations  
+- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)  
 
----
+### Identity & Access Security  
+- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs  
+- **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy  
 
-## Tools & Technologies  
+### Vulnerability & Risk Management  
+- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies  
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto  
+- **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations  
 
-- **PT/VA Tools:** Nessus, Qualys, Burp Suite, Rapid7, OWASP-ZAP, Metasploit, Nmap, Shodan, Kali Linux, Wireshark  
-- **SIEM & EDR:** Splunk, IBM QRadar, Microsoft Sentinel, CrowdStrike Falcon  
-- **Scripting:** Python (advanced), PowerShell (basic)  
-- **Cloud:** AWS, Microsoft Azure  
-- **GRC & Security Platforms:** Archer, OneTrust, ServiceNow, Vanta  
+### Detection & Monitoring  
+- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk  
+- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues  
+- **Suricata IDS Deployment** – Signature-based intrusion detection  
+- **Honeypot Deployment** – Capturing and analysing attacker behaviour  
 
----
+### Threat Hunting & Framework Mapping  
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections  
 
-## Portfolio Projects  
+### Social Engineering Defence  
+- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher  
+- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation  
 
-Here you’ll find documentation of my security projects, written in **pentest report style** and/or **tutorial style** where applicable.  
-Each project includes methodology, tools used, findings, and mitigation strategies.  
+### Offensive Security Simulations  
+- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests  
 
-### Featured Projects  
-
-- 🔍 **Web Application Penetration Testing** – Testing authentication and input validation flaws.  
-- 🛡️ **Vulnerability Assessment & Management** – Scanning, risk prioritization, and remediation reporting.  
-- 🎯 **Adversary Simulation (Red Team)** – Simulating advanced persistent threat (APT) techniques using MITRE ATT&CK.  
-- ☁️ **Cloud Security Testing** – Reviewing misconfigurations and access controls in AWS.  
-- 📊 **Threat Hunting in Healthcare** – Using SOCRadar labs to investigate APT groups targeting healthcare.  
-- 📝 **Policy & Compliance Projects** – Drafting and enforcing security policies (Privacy, Password, AUP).  
-
----
-
-## How to Navigate  
-
-Each folder in this repo represents a **project**.  
-
-Inside, you’ll find:  
-- `README.md` → Overview, tools used, methodology  
-- `Screenshots / Evidence` → Findings and proof-of-concept  
-- `Reports` → Documented in professional PT/VA style  
+### Malware & Exploit Analysis  
+- **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox  
+- **Malicious PDF Analysis** – Payload extraction and script dissection  
 
 ---
 
-## 🎓 Certifications  
+## 🔧 Tools & Skills  
 
-- Certified Information Security manager (CISM)
-- CISSP *(in view)*  
-
----
-
-## Connect with Me  
-
-- 💼 [LinkedIn]([https://www.linkedin.com/in/olanrewaju-ogunsola/])  
-- 📧 Email: **fatosky1427@yahoo.com**  
+- VirtualBox, VMware, AWS Free Tier  
+- Wireshark, Nmap, Nessus, Nikto, sqlmap  
+- Wazuh, Suricata, Elastic Stack, Splunk  
+- Kali Linux, Windows Server, Ubuntu, pfSense  
+- Git, GitHub, Markdown documentation  
 
 ---
 
-This portfolio is **continuously updated** as I work on more projects in **penetration testing, VA, adversary simulation, and cloud security**. Stay tuned for more!  
+## 📂 Featured Repositories  
+
+| Folder | Description | Link |
+|--------|-------------|------|
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/your-username/virtual-home-lab) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/your-username/ad-deployment-hardening) |
+| 03-aws-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/your-username/aws-cloud-deployment) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/your-username/security-policy-development) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/your-username/vulnerability-assessment) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/your-username/network-monitoring) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/your-username/risk-assessment) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/your-username/mitre-threat-hunt) |
+| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/your-username/phishing-simulation) |
+| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/your-username/phishing-email-forensics) |
+| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/your-username/linux-permissions-audit) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/your-username/sql-ddos-sim) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/your-username/malware-analysis) |
+
+---
+
+## 📬 Contact  
+
+- **LinkedIn:** [Olanrewaju Ogunsola](https://www.linkedin.com/in/olanrewaju-ogunsola/)  
+- **Email:** fatosky1427@yahoo.com  
+
+---
+
+> “Cybersecurity is not only a discipline, it is a mindset.”  
+
+Thank you for visiting my GitHub. If a repository helps your work, please consider leaving a ⭐ star.  
