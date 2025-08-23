@@ -56,19 +56,19 @@ Hello! I’m **Olanrewaju Ogunsola**, a results-driven Cybersecurity Analyst wit
 
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/your-username/virtual-home-lab) |
-| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/your-username/ad-deployment-hardening) |
-| 03-aws-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/your-username/aws-cloud-deployment) |
-| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/your-username/security-policy-development) |
-| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/your-username/vulnerability-assessment) |
-| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/your-username/network-monitoring) |
-| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/your-username/risk-assessment) |
-| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/your-username/mitre-threat-hunt) |
-| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/your-username/phishing-simulation) |
-| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/your-username/phishing-email-forensics) |
-| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/your-username/linux-permissions-audit) |
-| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/your-username/sql-ddos-sim) |
-| 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/your-username/malware-analysis) |
+| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/OlanrewajuOgunsola/Setting-A-Virtual-Home-Lab) |
+| 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/OlanrewajuOgunsola/Active-Directory-Deployment) |
+| 03-aws-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/OlanrewajuOgunsola/AWS-cloud-IAM-Deployment-and-Configuration) |
+| 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/OlanrewajuOgunsola/Security-policy-Crafting) |
+| 05-vulnerability-assessment | Network and web-app scanning with Nessus and Nmap | [View Repo](https://github.com/OlanrewajuOgunsola/Vulnerability-Assessment-Web-App-and-Endpoints-) |
+| 06-network-monitoring | Security Onion and Splunk dashboards | [View Repo](https://github.com/OlanrewajuOgunsola/Network-Monitoring-) |
+| 07-risk-assessment | CIA impact mapping and risk matrix | [View Repo](https://github.com/OlanrewajuOgunsola/Risk-Assessment---CIA-Impact-and-Risk-Matrix-Heat-Map) |
+| 08-mitre-threat-hunt | ATT&CK-aligned threat hunting scripts | [View Repo](https://github.com/OlanrewajuOgunsola/Mitre-ATT-CK-aligned-threat-hunting) |
+| 09-phishing-simulation | Lab-based phishing campaign and metrics | [View Repo](https://github.com/OlanrewajuOgunsola/Phishing-campaign-and-metrics) |
+| 10-phishing-email-forensics | Email header and domain analysis toolkit | [View Repo](https://github.com/OlanrewajuOgunsola/Phishing-Email-Forensics) |
+| 11-linux-permissions-audit | Identifying world-writable and SUID files | [View Repo](https://github.com/OlanrewajuOgunsola/Linux-Permissions-Audit) |
+| 12-sqli-ddos-sim | SQLi exploitation and DDoS alert tuning | [View Repo](https://github.com/OlanrewajuOgunsola/SQLi-exploitation-and-DDoS-alert-tuning) |
+| 13-malware-analysis | Static and dynamic malware triage | [View Repo](https://github.com/OlanrewajuOgunsola/Malware-Analysis) |
 
 ---
 
