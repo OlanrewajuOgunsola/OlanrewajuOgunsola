@@ -1,62 +1,51 @@
-# Olanrewaju Ogunsola – Cybersecurity Analyst | Penetration Tester | Offensive Security Specialist
-Passionate about **offensive security, vulnerability assessment, adversary simulation, GRC, and security automation**.  
-Open to global opportunities in **Penetration Testing & Cybersecurity Consulting**.  
+# Olanrewaju Ogunsola – Cybersecurity Manager | SOC & Threat Detection Specialist  
 
-Hello! I’m **Olanrewaju Ogunsola**, a results-driven Cybersecurity Analyst with years of experience protecting cloud and on-prem infrastructures. My work focuses on threat detection, vulnerability management, and continuous security monitoring. This repository gathers the lab projects and reference guides that demonstrate my technical depth and commitment to secure-by-design principles.  
+Passionate about **defensive security, SOC operations, SIEM optimization, threat detection, and cloud security**.  
+Open to global opportunities in **Security Operations, Incident Response, and Cybersecurity Leadership**.  
+
+Hello! I’m **Olanrewaju Ogunsola**, a CISM-certified cybersecurity professional with over 7 years of experience securing enterprise infrastructures across finance, healthcare, and technology. My expertise lies in **building and leading SOC operations**, leveraging frameworks like **MITRE ATT&CK** to enhance detection and response, and strengthening security posture through proactive monitoring, risk mitigation, and SIEM integration.  
+
+This repository gathers my **hands-on lab projects, detection use cases, and security frameworks** that reflect my technical depth, operational mindset, and commitment to **building resilient, business-aligned security programs**.  
 
 ---
 
 ## Project Highlights  
 
-### Lab Foundations  
-- **Virtual Home Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion)  
+### SOC Foundations  
+- **Virtual SOC Lab Build** – Multi-VM environment (Windows, Linux, pfSense, Security Onion) for log aggregation and monitoring  
+- **Splunk & Security Onion Dashboards** – SIEM-driven detection and correlation across multiple log sources  
+- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator queries mapped to detection use cases  
 
-### Identity & Access Security  
-- **Active Directory Deployment & Hardening** – Secure domain controller with baseline GPOs  
-- **AWS Cloud Console Deployment & Hardening** – Secure server with IAM policy  
+### Incident Detection & Response  
+- **Suricata IDS Deployment** – Signature-based intrusion detection with real-world alerting  
+- **Honeypot Deployment** – Capturing and analyzing attacker behavior for SOC enrichment  
+- **Linux Permissions Audit** – Identifying misconfigurations and escalating detections into SOC alerts  
 
 ### Vulnerability & Risk Management  
-- **Security Policy Development** – Acceptable-Use, Password, and Access-Control policies  
-- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus and Nikto  
-- **Risk Assessment & CIA Impact Mapping** – Risk matrix and treatment recommendations  
+- **Vulnerability Assessment** – Network and web application scans with Nmap, Nessus, and Nikto  
+- **Patch & Risk Prioritization** – CIA triage mapping and mitigation recommendations  
+- **Security Policy Development** – Practical GRC alignment (AUP, Password, Access-Control policies)  
 
-### Detection & Monitoring  
-- **Network Monitoring & Log Analysis** – Dashboards in Security Onion and Splunk  
-- **Linux Permissions Audit** – Identifying and correcting misconfigurations and SUID issues  
-- **Suricata IDS Deployment** – Signature-based intrusion detection  
-- **Honeypot Deployment** – Capturing and analysing attacker behaviour  
-
-### Threat Hunting & Framework Mapping  
-- **MITRE ATT&CK Hunt Sprint** – ATT&CK Navigator-driven queries and detections  
-
-### Social Engineering Defence  
-- **Phishing Attack Simulation** – Campaign metrics via GoPhish or Zphisher  
-- **Phishing Email Forensics** – Header analysis with SPF, DKIM, DMARC validation  
-
-### Offensive Security Simulations  
-- **SQL Injection & DDoS Simulation** – Exploitation with sqlmap and low-volume slowloris tests  
-
-### Malware & Exploit Analysis  
-- **Malware Static & Dynamic Analysis** – strings, PE-Studio, Cuckoo sandbox  
-- **Malicious PDF Analysis** – Payload extraction and script dissection  
+### Offensive Security (for Blue-Team Enrichment)  
+- **Phishing Attack Simulation & Forensics** – Campaign metrics and email header analysis to tune DLP/EDR  
+- **SQL Injection & DDoS Simulation** – Offense-driven detections for SOC alert tuning  
+- **Malware Analysis Lab** – Building detection rules from static/dynamic analysis of malicious files  
 
 ---
 
 ## 🔧 Tools & Skills  
 
-- VirtualBox, VMware, AWS Free Tier  
-- Wireshark, Nmap, Nessus, Nikto, sqlmap  
-- Wazuh, Suricata, Elastic Stack, Splunk  
-- Kali Linux, Windows Server, Ubuntu, pfSense  
-- Git, GitHub, Markdown documentation  
+- **SOC / SIEM:** Splunk, Elastic Stack, Security Onion, Wazuh  
+- **Threat Detection:** MITRE ATT&CK, Suricata, honeypots, log analysis  
+- **Vulnerability & Risk:** Nmap, Nessus, Nikto, CIA risk mapping  
+- **Cloud Security:** AWS IAM hardening, policy development  
+- **Platforms:** Kali Linux, Windows Server, Ubuntu, pfSense  
+- **Workflow & Documentation:** Git, GitHub, Markdown  
 
 ---
-
-## 📂 Featured Repositories  
-
 | Folder | Description | Link |
 |--------|-------------|------|
-| 01-home-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/OlanrewajuOgunsola/Setting-A-Virtual-Home-Lab) |
+| 01-SOC-lab | Building a multi-VM cybersecurity lab | [View Repo](https://github.com/OlanrewajuOgunsola/Setting-A-Virtual-Home-Lab) |
 | 02-ad-deployment | Installing and hardening Active Directory | [View Repo](https://github.com/OlanrewajuOgunsola/Active-Directory-Deployment) |
 | 03-aws-deployment | Configuration and hardening Cloud console in AWS | [View Repo](https://github.com/OlanrewajuOgunsola/AWS-cloud-IAM-Deployment-and-Configuration) |
 | 04-security-policy-dev | Crafting AUP, password, and ACL policies | [View Repo](https://github.com/OlanrewajuOgunsola/Security-policy-Crafting) |
